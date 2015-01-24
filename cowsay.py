@@ -4,9 +4,7 @@
 """Python version of the cowsay program. The cows are nicked from the
 cow files from the original program. All credits for those go to the
 authors of the original cowsay.
-"""
 
-"""
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
